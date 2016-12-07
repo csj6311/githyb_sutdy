@@ -1,1 +1,1 @@
-console.log("영후야 고마워!")
+console.log("cccccc");
